@@ -1,6 +1,6 @@
 <h2>Desafio "Rocket News"</h2>
 
-![Group 1](https://user-images.githubusercontent.com/73071973/142681567-607a3217-d136-4536-977b-f46bc0e28ed8.png)
+![DD _ Theme Switcher](https://user-images.githubusercontent.com/73071973/155196000-e7627340-3ca4-4974-9111-7cf7a84f27fb.jpg)
 
 <h3>🛠 Technologies</h3>
 <ul>
